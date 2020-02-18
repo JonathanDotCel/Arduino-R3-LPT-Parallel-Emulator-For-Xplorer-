@@ -1,7 +1,7 @@
 See LICENSE for GNU terms and conditions.
 
 # Arduino-R3-LPT-Parallel-Emulator-For-Xplorer-
-Use an Arduino R3 as an extremely slow parallel port emu (For XPlorer/Xploder/Caetla). Xtremely slow, lol.
+Use an Arduino R3 as an extremely slow parallel port emu (For Xplorer/Xploder/Caetla). Xtremely slow, lol.
 
 Sample code to upload to Playstation 1 RAM and start executing via Xplorer/Caetla Parallel IO Carts.
 Should be compatible with the PAR standard in theory, though I don't have the hardware to reverse engineer the command sequences.
