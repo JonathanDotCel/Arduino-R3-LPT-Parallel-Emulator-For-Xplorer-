@@ -9,6 +9,10 @@ Should be compatible with the PAR standard in theory, though I don't have the ha
 Note: Later versions of Caetla can be installed on the larger XPlorer FX carts, in which case you should use the Caetla protocol.
 The CatFlap source has some pretty good examples of this.
 
+Note:
+As I'm dropping Parallel IO support on the next version of UniROM, you might want to follow DanHans' developments with XFlash and SIO/PIO over on PSXDev:
+http://www.psxdev.net/forum/viewtopic.php?f=66&p=18818#p18818
+
 Lastly, for a bit of a laugh...
 If you're averse to soldering, you'll be as surprised as I was to find that 2.54 pitch female breadboard jumpers can fit nicely into the DB25 on the side.
 
